@@ -8,7 +8,7 @@ To run the program follow the given steps:-
   3)tflearn
   4)tensorflow==1.14.0
   5)SimpleWebSocketServer
-3.Download all the programs main.py,server.py,intents.json,index.html in the same folder.
+3.Download all the programs and files in the same folder.
 4.Afterthat run the program main.py.
 (While the program is being processed if the error "ImportError: DLL load failed: The specified procedure could not be found." occurs
 then use this command pip install pip install protobuf==3.6.0 to degrade the version of protobuf==3.6.1 to 3.6.0) 
