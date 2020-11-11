@@ -1,6 +1,6 @@
 # Mr.DocBot---A-covid19-chatbot
 Mr.DocBot is an interactive chatbot used for the information about Covid-19/Corona Virus.<br>
-To run the program follow the given steps:-<br><ol>
+To run the program follow the given steps:-<ol>
   <li>Ensure that you are using python version 3.6.</li>
   <li>Then install the required library using pip command:-</li>
   <ol>
