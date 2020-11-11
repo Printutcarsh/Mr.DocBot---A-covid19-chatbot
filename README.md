@@ -14,7 +14,7 @@ To run the program follow the given steps:-
   <li>Download all the programs and files in the same folder.</li>
   <li>Afterthat run the program main.py.<br>
   (While the program is being processed if the error "ImportError: DLL load failed: The specified procedure could not be found." occurs
-  then use this command pip install pip install protobuf==3.6.0 to degrade the version of protobuf==3.6.1 to 3.6.0)</li> 
+  then use this command pip install protobuf==3.6.0 to degrade the version of protobuf==3.6.1 to 3.6.0)</li> 
   <li>After the model is trained run server.py.</li>
   <li>Then open index.html in the web browser and chat with the bot!</li>
 </ol>                                                   
